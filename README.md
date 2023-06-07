@@ -4,7 +4,7 @@
 
 I'm Gustavo Jiménez, let me introduce myself:
 
-- 🔭 I’m currently working at Bosch Mexico as scholar from a program called Mexcellence.
+- 🔭 I’m currently working at Grupo Salinas as Java Developer.
 - 🌱 I’m currently learning how to develop android apps and hybrid through java, kotlin and react native.
 - 👯 I’m looking to collaborate on communities for learning mathematics and logics and to make courses to learn programming fundamentals.
 - 🤔 I’m looking for help with my projects, I'm open to receive comments to improve the code I publish here.
